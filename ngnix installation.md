@@ -1,4 +1,5 @@
 root@ip-172-31-85-86:/usr/share/nginx/html# history
+````
     1  apt install ubantu
     2  ls
     3  -ls
@@ -49,3 +50,4 @@ root@ip-172-31-85-86:/usr/share/nginx/html# history
    48  curl localhost:80
    49  clear
    50  history
+   ````
